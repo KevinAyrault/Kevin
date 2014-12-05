@@ -41,6 +41,6 @@ public class Lapin {
 
 public void Crier()
 {
-    System.out.println("HAAAAA");
+    System.out.println("YOLO");
 }
 }

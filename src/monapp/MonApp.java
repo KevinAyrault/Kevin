@@ -16,9 +16,9 @@ public class MonApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         Lapin lapin=new Lapin("Roger",20);
+         Lapin lapin=new Lapin("Janno",20);
         System.out.println("Hello World");
-        while(i <= 50){
+        while(i <= 100){
         lapin.Crier();
         i++;
     }
